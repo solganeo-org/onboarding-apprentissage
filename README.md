@@ -22,6 +22,7 @@ Le script configure automatiquement certains aspects de l'environnement, dont l'
 Exécutez simplement cette commande dans votre terminal après avoir cloné le dépôt :
 
 ```bash
+chmod +x init.sh
 ./init.sh
 ```
 
